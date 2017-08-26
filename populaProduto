@@ -1,0 +1,31 @@
+db.produto.insertMany(
+
+    //NATURA HOMEM
+
+    {
+        "productId": 55123,
+        "name": "Desodorante Colônia Natura Homem Madeiras 100 ml",
+        "longDescription": "A Colônia Natura Homem não só se renova, mas também expande: nova fragrância Madeiras. Com a mesma embalagem sofisticada e contemporânea da colônia Clássica, traz os conceitos de performance e sofisticação além de facilitar o uso no dia a dia com ímã na tampa. Sua tonalidade remete ao universo noturno e o frescor das especiarias frias, como gengibre e cardamomo, em contraste com um rico complexo amadeirado e ambarado trazem masculinidade e personalidade marcante.",
+        "description": "Nova fragrância Madeiras. Com a mesma embalagem sofisticada e contemporânea da colônia Clássica, traz os conceitos de performance e sofisticação além de facilitar o uso no dia a dia com ímã na tampa.",
+        "line": "Natura Homem",
+        "recommendedFor": "Homens",
+        "usage": "Para uma melhor perfumação, aplique nos pulsos, pescoço, colo e atrás das orelhas a uma distância de aproximadamente 30 cm",
+        "benefits": "Frescor, Sofisticação, Marcante",
+        "bestSeller": false,
+        "basePrice": 122.9,
+        "salePrice": 85.9
+    },
+    {
+        "productId": 55129,
+        "name": "Deo Parfum Natura Homem Essence - 100ml"
+        "longDescription": "O primeiro Deo parfum de Natura Homem tem notas marcantes e intensas, ideal para a noite e ocasiões especiais. Sua fragrância marcante pelas especiarias, reforçadas pela combinação de madeiras patchouli, guaiac, cedro e conforto do cashmeran e amber acompanha o homem na rotina que é cada vez mais diversa e flexível. Madeira | Sensual | Cashmeran.",
+        "description": "Sua fragrância marcante pelas especiarias, reforçadas pela combinação de madeiras patchouli, guaiac, cedro e conforto do cashmeran e amber.",
+        "line": "Natura Homem",
+        "recommendedFor": "Homens",
+        "usage": "Para uma melhor perfumação, aplique nos pulsos, pescoço, colo e atrás das orelhas a uma distância de aproximadamente 30 cm",
+        "benefits": "Embalagem sofisticada com pintura especial e ímã na tampa para facilitar o uso no dia a dia.",
+        "bestSeller": false,
+        "basePrice": 139.9,
+        "salePrice": 99.9
+    },
+)
