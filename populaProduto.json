@@ -10,8 +10,8 @@
         "category": "",
         "recommendedFor": "",
         "usage": "",
-        "benefits": ",
-        "bestSeller": ,
+        "benefits": "",
+        "bestSeller": false,
         "basePrice": .9,
         "salePrice": .9
     }, 
@@ -55,9 +55,9 @@
     "line": "Natura Homem",
     "category": "Desodorantes",
     "recommendedFor": "Homens",
-    "usage": "P",
-    "benefits": ",
-    "bestSeller": ,
-    "basePrice": .9,
-    "salePrice": .9
+    "usage": "Aplique nas axilas. Espere secar bem antes de se vestir.",
+    "benefits": "Seu complexo de ingredientes hidratantes cuida e protege a pele contra as agressões do dia a dia. Proteção 48h contra o mau odor sem abrir mão do cuidado.",
+    "bestSeller": false,
+    "basePrice": 19.3,
+    "salePrice": 15.3
 }
