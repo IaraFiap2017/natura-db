@@ -64,11 +64,77 @@
     "productId": 53444,
     "name": "Sabonete em Barra Cremoso e Refrescante Natura Homem - 3 un de 110g cada",
     "description": "O Sabonete em Barra Natura Homem refresca e deixa a pele perfumada. Com alto poder de hidratação, ele não resseca a pele. Ideal para o homem que se cuida.",
-    "categories": ["Sabonete"],
+    "categories": ["Sabonete", "Corpo"],
     "genders": ["Masculino"],
     "usage": "",
     "benefits": "",
     "basePrice": 19.8,
     "salePrice": 15.8
-}
+},
+{
+    "productId": 52342,
+    "name": "Gel Fixador Para Cabelos Natura Homem - 100g",
+    "description": "O Gel Fixador Natura Homem modela os fios e garante brilho intenso, além de possuir alta fixação. Ideal para o homem que se cuida.",
+    "categories": ["Cabelos"],
+    "genders": ["Masculino"],
+    "usage": "Coloque a quantidade desejada do gel em suas mãos e aplique no cabelo ainda úmido. Modele o cabelo com as pontas dos dedos ou com o auxílio de um pente.",
+    "benefits": "A manteiga de murumuru na fórmula potencializa a hidratação, Modela os fios, Alta fixação, Efeito molhado, Brilho intenso.",
+    "basePrice": 24.5,
+    "salePrice": 18.5
+}, 
+{
+    "productId": 51129,
+    "name": "Espuma de Barbear Natura Homem - 180g / 200ml",
+    "description": "A Espuma de Barbear Natura Homem proporciona um barbear mais prático e confortável, acalmando a pele. Ideal para o homem que se cuida.",
+    "categories": ["Barba"],
+    "genders": ["Masculino"],
+    "usage": "Umedeça o rosto e aplique o produto com os dedos. Faça a barba, enxágue e seque. Para um experiência mais completa, aplique o Balm Pós-Barba Natura Homem em seguida.",
+    "benefits": "Uso rápido, Acalma a pele e a deixa macia, Extrato de aloe vera e óleo de copaíba na composição",
+    "basePrice": 44.9,
+    "salePrice": 37.9
+}, 
+{
+    "productId": 51667,
+    "name": "Óleo de Barbear Natura Homem - 100ml",
+    "description": "O Óleo de Barbear Natura Homem renova e hidrata a pele durante o barbear, sem deixa-la oleosa. Auxilia ao desenhar a barba. Ideal para o homem que se cuida.",
+    "categories": ["Barba"],
+    "genders": ["Masculino"],
+    "usage": "Umedeça o rosto e aplique o produto com movimentos circulares até a formação de espuma. Faça a barba, enxágue e seque. Para um experiência mais completa, aplique o Balm Pós-Barba Natura Homem em seguida.",
+    "benefits": "Não deixa a pele oleosa, Óleo com espumação, Permite um barbear desenhado, O óleo de copaíba em sua fórmula renova a pele.",
+    "basePrice": 49.9,
+    "salePrice": 39.9
+}, 
+{
+    "productId": 55777,
+    "name": "Desodorante Colônia Feminino Luna - 75ml",
+    "description": "A nova fragrância exclusiva da Natura valoriza a sutil beleza feminina que enche de encanto os olhos de quem vê. O toque amadeirado, com notas de patchuli traz uma combinação frutal e cítrica com um corpo floral. Sua sensualidade alegre e natural traduz a mulher brasileira.",
+    "categories": ["Perfumaria","Desodorantes"],
+    "genders": ["Feminino"],
+    "usage": "Para uma melhor perfumação, aplique nos punhos, no pescoço, no colo e atrás das orelhas.",
+    "benefits": "Perfumação",
+    "basePrice": 129.9,
+    "salePrice": 99.9
+}, 
+{
+    "productId": 55931,
+    "name": "Deo Parfum Una Artisan Feminino - 75ml",
+    "description": "Una Artisan é um Deo Parfum precioso e cheio de detalhes que transformam, como arte. Floral e intenso, é uma ótima opção para ocasiões especiais. Torne-se marcante e única, como Una Artisan.",
+    "categories": ["Perfumaria"],
+    "genders": ["Feminino"],
+    "usage": "Para uma melhor perfumação, aplique nos punhos, no pescoço, no colo e atrás das orelhas.",
+    "benefits": "Fragrância intensa e marcante, de longa duração, Chipre floral, com notas de madeira e baunilha, mandarina, cassis e pêra.",
+    "basePrice": 198.9,
+    "salePrice": 138.9
+}, 
+{
+    "productId": ,
+    "name": "",
+    "description": "",
+    "categories": [""],
+    "genders": [""],
+    "usage": "",
+    "benefits": "",
+    "basePrice": 19.8,
+    "salePrice": 15.8
+}, 
 ]
