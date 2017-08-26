@@ -3,7 +3,7 @@
 
    {
         "productId": ,
-        "name": ""
+        "name": "",
         "longDescription": "",
         "description": "",
         "line": "",
@@ -49,12 +49,12 @@
 },
 {
     "productId": 54132,
-    "name": "Desodorante Antitranspirante Roll-on Natura Homem - 75 ml"
+    "name": "Desodorante Antitranspirante Roll-on Natura Homem - 75 ml",
     "longDescription": "O desodorante rollon Natura Homem foi desenvolvido para manter você protegido e perfumado, sem irritar a sua pele, e com a clássica fragrância da linha.",
-    "description": "",
-    "line": "",
-    "category": "",
-    "recommendedFor": "",
+    "description": "Protegido e perfumado, sem irritar a sua pele",
+    "line": "Natura Homem",
+    "category": "Desodorantes",
+    "recommendedFor": "Homens",
     "usage": "P",
     "benefits": ",
     "bestSeller": ,
