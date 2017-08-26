@@ -10,14 +10,15 @@
     "usage": "",
     "benefits": "",
     "basePrice": 19.8,
-    "salePrice": 15.8
+    "salePrice": 15.8,
+    "imgUrl": ""
     }, 
 */
 
     //NATURA HOMEM
 [
 {
-    "productId": 55123,
+    "productId": 53254,
     "name": "Desodorante Colônia Natura Homem Madeiras 100 ml",
     "description": "A Colônia Natura Homem não só se renova, mas também expande: nova fragrância Madeiras. Com a mesma embalagem sofisticada e contemporânea da colônia Clássica, traz os conceitos de performance e sofisticação além de facilitar o uso no dia a dia com ímã na tampa. Sua tonalidade remete ao universo noturno e o frescor das especiarias frias, como gengibre e cardamomo, em contraste com um rico complexo amadeirado e ambarado trazem masculinidade e personalidade marcante.",
     "categories": ["Perfumaria"],
@@ -25,21 +26,23 @@
     "usage": "Para uma melhor perfumação, aplique nos pulsos, pescoço, colo e atrás das orelhas a uma distância de aproximadamente 30 cm",
     "benefits": "Frescor, Sofisticação, Marcante",
     "basePrice": 122.9,
-    "salePrice": 85.9
+    "salePrice": 85.9,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/53254-3.jpg"
 },
 {
-    "productId": 55129,
-    "name": "Deo Parfum Natura Homem Essence - 100ml",
-    "description": "O primeiro Deo parfum de Natura Homem tem notas marcantes e intensas, ideal para a noite e ocasiões especiais. Sua fragrância marcante pelas especiarias, reforçadas pela combinação de madeiras patchouli, guaiac, cedro e conforto do cashmeran e amber acompanha o homem na rotina que é cada vez mais diversa e flexível. Madeira | Sensual | Cashmeran.",
+    "productId": 41806,
+    "name": "Deo Parfum Essencial Masculino - 100ml",
+    "description": "Essencial é ser você e deixar sua personalidade por onde passar. Essa eau de parfum traz uma fragrância amadeirada com notas frescas de cedro.",
     "categories": ["Perfumaria"],
     "genders": ["Masculino"],
     "usage": "Para uma melhor perfumação, aplique nos pulsos, pescoço, colo e atrás das orelhas a uma distância de aproximadamente 30 cm",
-    "benefits": "Embalagem sofisticada com pintura especial e ímã na tampa para facilitar o uso no dia a dia.",
-    "basePrice": 139.9,
-    "salePrice": 99.9
+    "benefits": "Sensação de frescor e bem-estar",
+    "basePrice": 189.9,
+    "salePrice": 119.8,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/41806-2.jpg"
 },
 {
-    "productId": 54132,
+    "productId": 64389,
     "name": "Desodorante Antitranspirante Roll-on Natura Homem - 75 ml",
     "description": "O desodorante rollon Natura Homem foi desenvolvido para manter você protegido e perfumado, sem irritar a sua pele, e com a clássica fragrância da linha.",
     "categories": ["Perfumaria","Desodorantes"],
@@ -47,10 +50,11 @@
     "usage": "Aplique nas axilas. Espere secar bem antes de se vestir.",
     "benefits": "Seu complexo de ingredientes hidratantes cuida e protege a pele contra as agressões do dia a dia. Proteção 48h contra o mau odor sem abrir mão do cuidado.",
     "basePrice": 19.3,
-    "salePrice": 15.3
+    "salePrice": 15.3,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/64389-0.jpg"
 },
 {
-    "productId": 54222,
+    "productId": 53253,
     "name": "Desodorante Colônia Natura Homem Especiarias - 100ml",
     "description": "Não existe caminho certo ou errado. Existe o seu caminho. O Desodorante Colônia Natura Homem Especiarias acompanha você em todos os momentos do seu dia, com sofisticação e a rica fragrância amadeirada que apresenta frescor prolongado de notas cítricas que evoluem para um elegante e distinto corpo especiado, com pimenta branca e noz moscada, sendo finalizada por um fundo de extrema masculinidade vindas de notas amadeiradas de vetiver e cedro.",
     "categories": ["Perfumaria","Desodorantes"],
@@ -58,10 +62,11 @@
     "usage": "Para uma melhor perfumação, aplique nos pulsos, pescoço, colo e atrás das orelhas a uma distância de aproximadamente 30 cm.",
     "benefits": "Praticidade do uso no dia a dia com ímã na tampa. Madeira, Refrescante, Pimenta-branca.",
     "basePrice": 122.9,
-    "salePrice": 85.9
+    "salePrice": 85.9,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/53253-3.jpg"
 }, 
 {
-    "productId": 53444,
+    "productId": 78937,
     "name": "Sabonete em Barra Cremoso e Refrescante Natura Homem - 3 un de 110g cada",
     "description": "O Sabonete em Barra Natura Homem refresca e deixa a pele perfumada. Com alto poder de hidratação, ele não resseca a pele. Ideal para o homem que se cuida.",
     "categories": ["Sabonete", "Corpo"],
@@ -69,10 +74,11 @@
     "usage": "",
     "benefits": "",
     "basePrice": 19.8,
-    "salePrice": 15.8
+    "salePrice": 15.8,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/78937-0.jpg"
 },
 {
-    "productId": 52342,
+    "productId": 78932,
     "name": "Gel Fixador Para Cabelos Natura Homem - 100g",
     "description": "O Gel Fixador Natura Homem modela os fios e garante brilho intenso, além de possuir alta fixação. Ideal para o homem que se cuida.",
     "categories": ["Cabelos"],
@@ -80,10 +86,11 @@
     "usage": "Coloque a quantidade desejada do gel em suas mãos e aplique no cabelo ainda úmido. Modele o cabelo com as pontas dos dedos ou com o auxílio de um pente.",
     "benefits": "A manteiga de murumuru na fórmula potencializa a hidratação, Modela os fios, Alta fixação, Efeito molhado, Brilho intenso.",
     "basePrice": 24.5,
-    "salePrice": 18.5
+    "salePrice": 18.5,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/78932-0.jpg"
 }, 
 {
-    "productId": 51129,
+    "productId": 78911,
     "name": "Espuma de Barbear Natura Homem - 180g / 200ml",
     "description": "A Espuma de Barbear Natura Homem proporciona um barbear mais prático e confortável, acalmando a pele. Ideal para o homem que se cuida.",
     "categories": ["Barba"],
@@ -91,10 +98,11 @@
     "usage": "Umedeça o rosto e aplique o produto com os dedos. Faça a barba, enxágue e seque. Para um experiência mais completa, aplique o Balm Pós-Barba Natura Homem em seguida.",
     "benefits": "Uso rápido, Acalma a pele e a deixa macia, Extrato de aloe vera e óleo de copaíba na composição",
     "basePrice": 44.9,
-    "salePrice": 37.9
+    "salePrice": 37.9,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/78911-0.jpg"
 }, 
 {
-    "productId": 51667,
+    "productId": 78930,
     "name": "Óleo de Barbear Natura Homem - 100ml",
     "description": "O Óleo de Barbear Natura Homem renova e hidrata a pele durante o barbear, sem deixa-la oleosa. Auxilia ao desenhar a barba. Ideal para o homem que se cuida.",
     "categories": ["Barba"],
@@ -102,10 +110,11 @@
     "usage": "Umedeça o rosto e aplique o produto com movimentos circulares até a formação de espuma. Faça a barba, enxágue e seque. Para um experiência mais completa, aplique o Balm Pós-Barba Natura Homem em seguida.",
     "benefits": "Não deixa a pele oleosa, Óleo com espumação, Permite um barbear desenhado, O óleo de copaíba em sua fórmula renova a pele.",
     "basePrice": 49.9,
-    "salePrice": 39.9
+    "salePrice": 39.9,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/78930-0.jpg"
 }, 
 {
-    "productId": 55777,
+    "productId": 56143,
     "name": "Desodorante Colônia Feminino Luna - 75ml",
     "description": "A nova fragrância exclusiva da Natura valoriza a sutil beleza feminina que enche de encanto os olhos de quem vê. O toque amadeirado, com notas de patchuli traz uma combinação frutal e cítrica com um corpo floral. Sua sensualidade alegre e natural traduz a mulher brasileira.",
     "categories": ["Perfumaria","Desodorantes"],
@@ -113,10 +122,11 @@
     "usage": "Para uma melhor perfumação, aplique nos punhos, no pescoço, no colo e atrás das orelhas.",
     "benefits": "Perfumação",
     "basePrice": 129.9,
-    "salePrice": 99.9
+    "salePrice": 99.9,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/56143-1.jpg"
 }, 
 {
-    "productId": 55931,
+    "productId": 77571,
     "name": "Deo Parfum Una Artisan Feminino - 75ml",
     "description": "Una Artisan é um Deo Parfum precioso e cheio de detalhes que transformam, como arte. Floral e intenso, é uma ótima opção para ocasiões especiais. Torne-se marcante e única, como Una Artisan.",
     "categories": ["Perfumaria"],
@@ -124,17 +134,19 @@
     "usage": "Para uma melhor perfumação, aplique nos punhos, no pescoço, no colo e atrás das orelhas.",
     "benefits": "Fragrância intensa e marcante, de longa duração, Chipre floral, com notas de madeira e baunilha, mandarina, cassis e pêra.",
     "basePrice": 198.9,
-    "salePrice": 138.9
+    "salePrice": 138.9,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/77571-3.jpg"
 }, 
 {
-    "productId": ,
-    "name": "",
-    "description": "",
-    "categories": [""],
-    "genders": [""],
-    "usage": "",
-    "benefits": "",
-    "basePrice": 19.8,
-    "salePrice": 15.8
-}, 
+    "productId": 78931,
+    "name": "Shampoo Anticaspa Natura Homem - 300ml",
+    "description": "O Shampoo Anticaspa Natura Homem não resseca os fios, deixando-os hidratados e saudáveis. Ideal para o homem que se cuida.",
+    "categories": ["Shampoo", "Cabelos"],
+    "genders": ["Masculino"],
+    "usage": "Aplique nos cabelos úmidos e massageie. Enxágue bem. Uso diário",
+    "benefits": "Ação anticaspa, O óleo de copaíba na fórmula deixa os fios mais saudáveis, Hidrata profundamente, Não resseca os fios.",
+    "basePrice": 25.5,
+    "salePrice": 19.5,
+    "imgUrl": "http://www.natura.com.br/sites/default/files/products/78931-0.jpg"
+}
 ]
